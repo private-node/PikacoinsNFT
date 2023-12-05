@@ -1,0 +1,22 @@
+{
+    "tokens": [
+        {
+          "id": 0,
+          "description": "This Pikachu has big eyes.",
+          "image": "ipfs://bafybeiefedd2qcyyg2o64yhejfx55fijgq5vi3yndgjxdg6o6tly3ri4me", 
+          "name": "Pikachu Big Eyes"
+        },
+        {
+          "id": 1,
+          "description": "This Pikachu is waving to you.",
+          "image": "ipfs://bafybeie3gi4i37wik3v3hspg5yuff7qo2cxjnodztehq3vttehndxnhmpm", 
+          "name": "Pikachu Wave"
+        },
+        {
+          "id": 2,
+          "description": "This Pikachu is square.",
+          "image": "ipfs://bafkreih2h6psupwxliw57z6rukdbwlmw7jmvoj462tc3da32pmz62z7g5y",
+          "name": "Pikachu Square"
+        }
+    ]
+}
